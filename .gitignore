@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+build/
+dist/
+release/
+*.spec
+qa_outputs/
+tmp/
+资料文件夹/
+示例计算书/
